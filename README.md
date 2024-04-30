@@ -6,7 +6,7 @@ FileFlux is a program designed to facilitate efficient tracking and synchronizat
 
 
 ### Executing program
-![Network Diagram](https://github.com/axlx16/FileFlux/blob/main/docs/network_diagram.jpg?raw=true)
+![Network Diagram](https://github.com/axlx16/FileFlux/blob/main/docs/network_diagram.png?raw=true)
 
 
 ## License
